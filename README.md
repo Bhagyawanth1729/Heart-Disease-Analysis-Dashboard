@@ -1,4 +1,5 @@
 🫀 Heart Disease Analysis Dashboard
+<img width="1224" height="695" alt="Screenshot 2025-07-14 011207" src="https://github.com/user-attachments/assets/95c1a8de-43d8-4b3d-91a7-93bb662002d6" />
 This Power BI project provides an interactive dashboard for exploring and analyzing patient data related to heart disease. The dashboard helps in identifying trends, risk factors, and survival statistics using a dataset containing health parameters and medical history of patients.
 
 📺 YouTube Demo
